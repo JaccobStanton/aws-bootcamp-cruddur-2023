@@ -1,4 +1,3 @@
-aws budgets create-budget \
-    --account-id $AWS_ACCOUNT_ID \
-    --budget file://aws/json/budget.json \
-    --notifications-with-subscribers file://aws/json/budget-notifications-with-subscribers.json
+if 3000 is not on, need to go into front end and type in "npm i"
+
+psql -U postgres --host localhost
